@@ -4,7 +4,7 @@ import json
 import os
 import re
 from datetime import datetime, timedelta
-
+from pypdf import PdfReader
 # ==========================================
 # ⚙️ SYSTEM & FILE CONFIGURATION
 # ==========================================
